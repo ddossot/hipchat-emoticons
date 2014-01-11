@@ -20,7 +20,7 @@ List of emoticons
 -----------------
 
 * ![unbounce](emoticons/unbounce.png)           (unbounce)
-* ![honeybadger](emoticons/honeybadger.png      (honeybadger)
+* ![honeybadger](emoticons/honeybadger.png)     (honeybadger)
 * ![chriscodes](emoticons/chriscodes.png)       (chriscodes)
 * ![wordupcorey](emoticons/wordupcorey.png)     (wordupcorey)
 * ![yolou](emoticons/yolou.png)                 (youlou)
