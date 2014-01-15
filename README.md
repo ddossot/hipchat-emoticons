@@ -29,6 +29,6 @@ List of emoticons
 * ![cobras](emoticons/cobras.png)               (cobras)
 * ![wow](emoticons/wow.png)                     (wow)
 * ![rats](emoticons/rats.png)                   (rats)
-* ![canucks](emoticons/canucks.png)             (canucks)
 * ![canucks](emoticons/plat.png)                (plat)
+* ![canucks](emoticons/canucks.png)             (canucks)
 * ![habs](emoticons/habs.png)                   (habs)
