@@ -31,3 +31,4 @@ List of emoticons
 * ![rats](emoticons/rats.png)                   (rats)
 * ![canucks](emoticons/canucks.png)             (canucks)
 * ![canucks](emoticons/plat.png)                (plat)
+* ![habs](emoticons/habs.png)                   (habs)
