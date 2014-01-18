@@ -32,3 +32,5 @@ List of emoticons
 * ![plat](emoticons/plat.png)                   (plat)
 * ![canucks](emoticons/canucks.png)             (canucks)
 * ![habs](emoticons/habs.png)                   (habs)
+* ![ytmnd](emoticons/ytmnd.png)                 (ytmnd)
+
